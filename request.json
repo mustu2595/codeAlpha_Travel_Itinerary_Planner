@@ -1,0 +1,14 @@
+{
+  "destinations": [
+    {"name": "Paris", "cost": 1000},
+    {"name": "Rome", "cost": 800}
+  ],
+  "dates": {
+    "startDate": "2023-03-01",
+    "endDate": "2023-03-10"
+  },
+  "preferences": {
+    "accommodationType": "hotel",
+    "transportationType": "flight"
+  }
+}

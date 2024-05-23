@@ -1,0 +1,6 @@
+{
+  "maps": [
+    {"destination": "Paris", "mapUrl": "https://maps.google.com/Paris"},
+    {"destination": "Rome", "mapUrl": "https://maps.google.com/Rome"}
+  ]
+}

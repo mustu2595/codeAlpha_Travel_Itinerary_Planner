@@ -1,0 +1,8 @@
+{
+  "itinerary": [
+    {"destination": "Paris", "dates": "2023-03-01 - 2023-03-05", "budget": 1000},
+    {"destination": "Rome", "dates": "2023-03-05 - 2023-03-10", "budget": 800}
+  ],
+  "budget": 1800,
+  "weather": "Sunny"
+}
